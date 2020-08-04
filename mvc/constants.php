@@ -8,8 +8,8 @@
 	define("CORE",ROOT.DIRECTORY_SEPARATOR."mvc".DIRECTORY_SEPARATOR."core".DIRECTORY_SEPARATOR);
 	define("FILES",ROOT.DIRECTORY_SEPARATOR."mvc".DIRECTORY_SEPARATOR."files".DIRECTORY_SEPARATOR);
 	// database
-	define("DB_HOST", "localhost");
-	define("DB_USER", "root");
-	define("DB_PASS", "");
-	define("DB_NAME", "quanlykhuvuon");
+	define("DB_HOST", "sql12.freemysqlhosting.net");
+	define("DB_USER", "sql12358640");
+	define("DB_PASS", "w8lfuMNaRg");
+	define("DB_NAME", "sql12358640");
 
