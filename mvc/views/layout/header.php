@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <base href="http://localhost/quanlykhuvuongtrenmay/" />
+    <base href="/" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <title>Admin</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" crossorigin="anonymous">
