@@ -164,6 +164,7 @@ class nguoiquanly extends data
 					  WHERE `taikhoan_nql` = '$taikhoan_nql' 
 					  AND `matkhau_nql` = '$matkhau_nql'";					  
 			$result = $this->execute($check);
+			echo $check;
 			if ($result->num_rows != 0 ) {
 				$obj = $result->fetch_assoc();
 				return $obj['taikhoan_nql'];
