@@ -164,8 +164,12 @@
 		        fill: true
 		      }, { 
 		        data: [],
-		        label: "độ ẩm",
+		        label: "Độ Ẩm",
 		        borderColor: "#8e5ea2",
+		        fill: false
+		      }, {data: [],
+		        label: "Độ Ẩm Đất",
+		        borderColor: "#15ff00",
 		        fill: false
 		      }
 		    ]
