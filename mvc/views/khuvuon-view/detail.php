@@ -174,7 +174,17 @@
 	    title: {
 	      display: true,
 	      text: 'ĐẠI LƯỢNG THÔNG SỐ KHÔNG KHÍ TẠI KHU VƯỜN TRÊN MÂY'
-	    }
+	    },
+	  scales: {
+        	yAxes: [{
+            		display: true,
+            		ticks: {
+                		beginAtZero: true,
+                		max: 100,
+                		min: 0
+            		}
+        	}]
+    	    }
 	  }
 	});
 </script>
