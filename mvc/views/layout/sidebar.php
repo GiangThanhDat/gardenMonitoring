@@ -8,7 +8,7 @@
                         <li><a href="admin/show/cambien">Danh sách</a> </li>
                     </ul>
                 </li> -->
-                <li><a class="menuitem">Khu vường trên mây</a>
+                <li><a class="menuitem">Khu vườn</a>
                     <ul class="submenu">
                         <li><a href="admin/add/khuvuon">Thêm</a> </li>
                         <li><a href="admin/show/khuvuon">Danh sách</a> </li>
