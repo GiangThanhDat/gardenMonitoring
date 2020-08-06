@@ -75,7 +75,7 @@
         </div>
         <div class="grid_12">
             <ul class="nav main">
-                <li class="ic-dashboard"><a href="admin/show/khuvuon"><span>Dashboard</span></a> </li>
+                <li class="ic-dashboard"><a href="admin/show/khuvuon"><span>Bảng Điều Khiển</span></a> </li>
             </ul>
         </div>
         <div class="clear">
