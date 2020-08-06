@@ -6,7 +6,7 @@
             <table class="form">					
                 <tr>
                 	<td>
-                		<input type="text" placeholder="Mả Khu vườn" name="Ma_khuvuon">
+                		<input type="text" placeholder="Mã Khu vườn" name="Ma_khuvuon">
                 	</td>
                 </tr>
                 <tr>
