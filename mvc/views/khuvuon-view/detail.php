@@ -49,8 +49,8 @@
 					    	</table>
 					    </div>
 					    <div class="card-footer">
-					    	<a class="btn" href="admin/edit/dailuong/<?= $measure['Ma_dailuong'] ?>">Setting</a>
-					    	<a class="btn" href="collect/xoa_dl/<?= $khuvuon_obj['Ma_khuvuon'] ?>/<?= $measure['Ma_dailuong'] ?>">Remove</a>
+					    	<a class="btn" href="admin/edit/dailuong/<?= $measure['Ma_dailuong'] ?>">Chỉnh ngưỡng</a>
+					    	<a class="btn" href="collect/xoa_dl/<?= $khuvuon_obj['Ma_khuvuon'] ?>/<?= $measure['Ma_dailuong'] ?>">Xóa cảm biến</a>
 					    </div>
 					  </div> 					
 				<?php endforeach ?>
@@ -58,7 +58,7 @@
 		</div>
 		<div class="col">
 			<hr>
-			<a href="admin/add/dailuong" class="btn">Add new sensor</a>
+			<a href="admin/add/dailuong" class="btn">Thêm cảm biến</a>
 			<hr>
 		</div>
 	</div>
