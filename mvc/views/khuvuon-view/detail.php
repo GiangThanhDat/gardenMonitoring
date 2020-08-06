@@ -156,9 +156,9 @@
 	    // The type of chart we want to create
 	    type: 'line',
 	    data: {
-	        labels: [1500,1600,1700,1750,1800,1850,1900,1950,1999,2050],
+	        labels: [],
 		   datasets: [{ 
-		        data: [1,2,3,4,5,6,7,8,9],
+		        data: [],
 		        label: "Nhiệt Độ",
 		        borderColor: "#3e95cd",
 		        fill: true
@@ -174,17 +174,7 @@
 	    title: {
 	      display: true,
 	      text: 'ĐẠI LƯỢNG THÔNG SỐ KHÔNG KHÍ TẠI KHU VƯỜN TRÊN MÂY'
-		    }	     
-		scales: {
-		yAxes: [{
-		    display: true,
-		    ticks: {
-			beginAtZero: true,
-			max: 100,
-			min: 0
-		    }
-		}]
-		  }
+	    }
 	  }
 	});
 </script>
