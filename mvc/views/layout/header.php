@@ -51,7 +51,7 @@
         <div class="grid_12 header-repeat">
             <div id="branding">
                 <div class="floatleft logo">
-                    <img src="./public/img/livelogo.png" alt="Logo" />
+                    <img src="./public/img/logo14.png" alt="Logo" />
 				</div>
 				<div class="floatleft middle">
 					<h1>NIÊN LUẬN CƠ SỞ: DƯƠNG HỒNG DANH - B17TT3</h1>
