@@ -55,7 +55,7 @@
 				</div>
 				<div class="floatleft middle">
 					<h1>NIÊN LUẬN CƠ SỞ: DƯƠNG HỒNG DANH - B17TT3</h1>
-					<p>QUẢN LÝ KHU VƯỜNG TRÊN MÂY</p>
+					<p>QUẢN LÝ KHU VƯỜN </p>
 				</div>
                 <div class="floatright">
                     <div class="floatleft">
