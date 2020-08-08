@@ -24,7 +24,7 @@
 					  	</div>
 					    <div class="card-body">
 					    	<table class="table border" >
-					    		<tr style="background-color: <?= $measure['mau_canh_bao'] ?>" >
+					    		<tr>
 					    			<th class="border">Giá Trị</th>
 					    			<td id="val_<?= $khuvuon_obj['Ma_khuvuon'] ?>_<?= $measure['Ma_dailuong'] ?>">28 * C</td>
 					    		</tr>
